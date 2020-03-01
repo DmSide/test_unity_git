@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>75AE48454599E1543DF5DD24469041F1C5E8CD74FA2D7F327444D35626F606F8</Signature>
+  <Content>
+    <Project Guid="d3b5ed6d-1646-43f2-a13b-1201d4d3f9d0">
+      <DisplayName Value="Тетраграмматон демо"/>
+      <DetailName Value="Проба возможностей секвенсора сценариев"/>
+      <MainProjectGuid Value="b1d05b85-f5da-41ba-bce6-c64b9ef05269"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="637183338200547027"/>
+      <PartitionHash Value="BEAD497414BE664F7C67DBCFCCBA3EDE3E94B8823BC42CE17B9BF8F9F611791F"/>
+      <SaveFileVersion Value="53"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
